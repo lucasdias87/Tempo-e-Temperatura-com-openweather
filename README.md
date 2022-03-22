@@ -1,4 +1,4 @@
-# site de tempo e temperatura 
+# Site de tempo e temperatura 
 
 
 - Site criado em HTML, CSS e Javascript
