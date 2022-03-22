@@ -1,7 +1,8 @@
 # site de tempo e temperatura 
 
-## Usando api openweather
+
 - Site criado em HTML, CSS e Javascript
+- Consumindo api openweather
 
 [![GitHub license](https://img.shields.io/github/license/lucasdias87/Tempo-e-Temperatura-com-openweather?style=for-the-badge)](https://github.com/lucasdias87/Tempo-e-Temperatura-com-openweather/blob/main/LICENSE)
 
