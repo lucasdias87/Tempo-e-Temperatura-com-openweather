@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200&family=Ubuntu+Mono:ital@0;1&display=swap');
+
+
+body{
+font-family: 'Poppins', sans-serif;
+font-family: 'Ubuntu Mono', monospace;
+background: url("/img/Previsao-do-tempo-Ubatuba.png")no-repeat;
+background-position: center ;
+background-size: cover;
+
+}
+
+.card-body{
+    background-color: #f2e7c8;
+    color: #161516;
+}
+button:hover{
+    color: #f2e7c8;
+    background-color: #161516;
+}
+
+.city{
+    font-size: 32px;
+}
+
+.date {
+    font-size: 16px;
+}
+
+.container-temp{
+    display: flex;
+    justify-content: center;
+    background-color: #f2e7c8;
+    box-shadow: 5px 6px rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+
+    font-size: 100px;
+    font-weight: 900;
+    text-shadow: 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.weather{
+    font-size: 32px;
+}
+
+.low-high {
+    font-size: 22px;
+}
