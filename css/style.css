@@ -4,7 +4,7 @@
 body{
 font-family: 'Poppins', sans-serif;
 font-family: 'Ubuntu Mono', monospace;
-background: url("img/PrevisaodotempoUbatuba.png")no-repeat;
+background: url("/img/PrevisaodotempoUbatuba.png")no-repeat;
 background-position: center ;
 background-size: cover;
 
